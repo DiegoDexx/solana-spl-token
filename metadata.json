@@ -1,6 +1,6 @@
 {
-  "name": "My_token",
-  "symbol": "MYTOKEN",
+  "name": "USDT",
+  "symbol": "USDT",
   "description": "Instant token for DeFi transactions.",
   "image": "https://i.ibb.co/C5cxwvbV/logo.png",
   "external_url": "https://flashusdt.com",
@@ -9,7 +9,7 @@
   ],
   "properties": {
     "files": [
-      { "uri": "https://i.ibb.co/C5cxwvbV/logo.png", "type": "image/png" }
+      { "uri": "https://i.ibb.co/C5cxwvbV/tusdtt.png", "type": "image/png" }
     ],
     "category": "image"
   }
