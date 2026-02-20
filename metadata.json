@@ -1,0 +1,14 @@
+{
+  "name": "USDT",
+  "symbol": "USDT",
+  "description": " USDT - Instant stablecoin for high-speed DeFi transactions. Lightning fast transfers with USDT stability.",
+  "image": "https://i.ibb.co/C5cxwvbV/tusdtt.png",
+  "decimals": 6,
+  "tags": ["stablecoin", "defi", "usd"],
+  "categories": ["Finance", "DeFi"],
+  "twitter": "https://twitter.com/flashusdt",
+  "telegram": "https://t.me/flashusdt",
+  "website": "https://flashusdt.com"
+}
+
+
